@@ -304,6 +304,11 @@ footer {
                 border-right: $border-width solid $primary-blue;
                 border-bottom: 0;
             }
+            figcaption {
+                max-width:55%;
+                min-width:50%;
+                width:55%;
+            }
         }
     }
 }
