@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-basic-gulp-css",
+  "version": "1.0.0",
+  "description": "My simple portfolio.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Michael Du Toit",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-sass": "^4.0.1",
+    "run-sequence": "^2.2.1"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 0.5%",
+    "ie >= 8"
+  ]
+}
